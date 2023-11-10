@@ -169,7 +169,6 @@ footer img {
 
 .div-proposito{
     background-color: rgb(240, 233, 233);
-    width: 800px;
     height: auto;
     padding: 5px;
     border: 2px solid gray;
@@ -178,14 +177,14 @@ footer img {
 
 .div-pros {
     padding: 5px;
-    width: 800px;
+    /* width: 800px; */
     border: 2px solid rgb(178, 169, 169);
     border-radius: 3px;
 }
 
 .div-contras{
     padding: 5px;
-    width: 800px;
+    /* width: 800px; */
     border: 2px solid rgba(178, 169, 169);
     border-radius: 3px;
 }
